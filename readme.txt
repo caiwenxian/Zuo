@@ -3,3 +3,4 @@ git is very good
 git is bad
 git is so good
 git is so bad
+git is pretty good
